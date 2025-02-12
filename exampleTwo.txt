@@ -1,0 +1,2 @@
+This is example2.
+This sentence is added after staging area.
